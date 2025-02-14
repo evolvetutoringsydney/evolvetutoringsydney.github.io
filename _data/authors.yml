@@ -1,0 +1,17 @@
+# Authors
+
+Sheerin Samadi:
+  avatar    : "/assets/images/sheerin-samadi.jpg"
+  bio       : "Dedicated to providing comprehensive and personalised tutoring services to help students reach their full potential"
+  links     :
+    - label     : "Evolve Tutoring"
+      icon      : "fas fa-fw fa-link"
+      url       : "https://evolvetutoringsydney.com"
+    - label     : "Instagram"
+      icon      : "fab fa-fw fa-instagram"
+      url       : "https://instagram.com/evolvetutoringsydney"
+    - label     : "GitHub"
+      icon      : "fab fa-fw fa-github"
+      url       : "https://github.com/evolvetutoringsydney"
+  location  : "Sydney, NSW"
+  name      : "Sheerin Samadi"

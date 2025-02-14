@@ -1,0 +1,7 @@
+{
+    "[yaml]": {
+        "editor.autoIndent": "none",
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2
+    }
+}

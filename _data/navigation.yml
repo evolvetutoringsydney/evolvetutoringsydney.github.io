@@ -1,0 +1,29 @@
+# main links
+main:
+  - title: About
+    url: /about/
+  - title: Why choose us?
+    url: /why-choose-us/
+  - title: Services
+    url: /docs/services/
+  - title: Contact
+    url: /contact/
+
+# documentation links
+docs:
+  - title: Services
+    children:
+      - title: Summary
+        url: /docs/services/
+      - title: Year 10 Tuition
+        url: /docs/year-10-tuition/
+      - title: Year 11 Tuition
+        url: /docs/year-11-tuition/
+      - title: Year 12 Tuition
+        url: /docs/year-12-tuition/
+  - title: Important Information
+    children:
+      - title: "FAQ"
+        url: /docs/faq/
+      - title: "Terms &amp; Privacy Policy"
+        url: /terms/
